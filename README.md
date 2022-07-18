@@ -1,1 +1,1 @@
-# conversor-de-dec-bin
+# conversor de decimal para binário
