@@ -61,3 +61,5 @@ try:
 except:
     print("Digite apenas números inteiros")
     exit()
+    
+#Criado por Junior4Carvalho
