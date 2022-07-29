@@ -63,3 +63,4 @@ except:
     exit()
     
 #Criado por Junior4Carvalho
+#Copyright-@Junior4Carvalho
