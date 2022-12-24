@@ -6,5 +6,5 @@ Esse é um simples conversor de números decimais para binários feito em PYTHON
   - Correr o Programa
   <br>
 
-## Crédito ⬇️
+## Créditos ⬇️
 - <a href="https://github.com/Junior4Carvalho">Junior Carvalho </a> 🚀
